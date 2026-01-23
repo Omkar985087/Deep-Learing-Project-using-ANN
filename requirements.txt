@@ -1,8 +1,6 @@
-tensorboard
 streamlit>=1.30.0
 tensorflow==2.15.0
 scikit-learn
 numpy
 pandas
 matplotlib
-ipykernel
